@@ -12,7 +12,7 @@ Deep neural networks excel at processing **unimodal data** (sensors, images, aud
 
 In the realm of neural networks, **target activations** represent the desired output values for specific neurons or layers, often reflecting the ground truth or a predefined ideal state. The primary objective of a loss function is to quantify the discrepancy between the network's actual activations and the target activations. By minimizing this loss, we guide the network to adjust its internal parameters (weights and biases) such that its computed activations increasingly approximate the desired targets.
 
-![screenshot](traget.png)
+![screenshot](target.png)
 
 
 As training progresses over multiple epochs, the loss function continually guides the weight adjustments. This iterative process allows the neuron's activations to gradually "converge" towards the predefined target activations for each class, thereby improving the network's ability to detect anomalies.
