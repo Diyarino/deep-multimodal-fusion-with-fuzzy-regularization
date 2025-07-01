@@ -17,7 +17,10 @@ In the realm of neural networks, **target activations** represent the desired ou
 
 As training progresses over multiple epochs, the loss function continually guides the weight adjustments. This iterative process allows the neuron's activations to gradually "converge" towards the predefined target activations for each class, thereby improving the network's ability to detect anomalies.
 
-![til](animation.gif)
+<p align="center">
+  <img src="animation.gif" width="400" height="400" alt="til">
+</p>
+
 
 
 ### 📦 Prerequisites
