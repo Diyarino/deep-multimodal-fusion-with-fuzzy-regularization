@@ -62,7 +62,7 @@ If you use this code or build upon our work, please cite our paper:
 
 ## 📚 Related Projects 
 
-This project builds on concepts from multimodal representation learning, attention-based fusion, and anomaly detection in industrial systems. Below are selected related works and projects that inspired or complement this research:
+Below are selected related works and projects that inspired or complement this research:
 
 <a id="1">[1]</a> Altinses, D., & Schwung, A. (2023, October). Multimodal Synthetic Dataset Balancing: A Framework for Realistic and Balanced Training Data Generation in Industrial Settings. In IECON 2023-49th Annual Conference of the IEEE Industrial Electronics Society (pp. 1-7). IEEE.
 
